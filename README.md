@@ -1,5 +1,5 @@
 # Тестовый репозиторий для практики с Pull Request в GitHub
-README.md 
+README.md
 Этот репозиторий - *Rustem*
 
 ## Как этим пользоваться?
